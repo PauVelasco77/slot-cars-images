@@ -1,0 +1,21 @@
+{
+  "name": "slot-cars-images",
+  "version": "0.0.0",
+  "description": "slot cars images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauVelasco77/images.git"
+  },
+  "keywords": [
+    "slot",
+    "cars",
+    "images"
+  ],
+  "author": "PauVelasco77",
+  "license": "ISC",
+  "homepage": "https://github.com/PauVelasco77/images#readme"
+}
